@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Ridmi Vancuylenburg</h1>
-<h3 align="center">Full-Stack Developer | Computer Science Undergraduate | Passionate About Building Real-World Solutions </h3>
+<h3 align="center">Full-Stack Developer | SE Undergraduate | Passionate About Building Real-World Solutions </h3>
 
 ---
 
