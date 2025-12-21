@@ -48,7 +48,6 @@ Java • JavaScript • TypeScript • Python • HTML/CSS • SQL
 
 ### 🤝 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ridmi-vancuylenburg)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram)](https://instagram.com/ridmi.vancuylenburg)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:heyridmi@gmail.com)
 
 ---
