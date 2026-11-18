@@ -16,5 +16,4 @@ Freelance · Contract · Full-time
 Open to remote, hybrid, on-site opportunities and international relocation.
 
 ### Find Me
-[LinkedIn]([https://www.linkedin.com/in/ridmivancuylenburg/]) · [Portfolio](https://ridmivancuylenburg.vercel.app/) · [Email](mailto:heyridmi@gmail.com)
-
+[LinkedIn](https://www.linkedin.com/in/ridmivancuylenburg/) · [Portfolio](https://ridmivancuylenburg.vercel.app/) · [Email](mailto:heyridmi@gmail.com)
